@@ -1,0 +1,9 @@
+- id: prev
+  translation: "Previous"
+- id: next
+  translation: "Next"
+- id: submit
+  translation: "Submit"
+
+- id: error
+  translation: "Error!"
