@@ -123,3 +123,12 @@
 #questionnaire-form textarea {
 	min-height: 10rem;
 }
+
+.color0 .tab-link.is-active {
+	background-color: var(--color0-accent);
+	border-color: var(--color0-text);
+}
+.color1 .tab-link.is-active {
+	background-color: var(--color1-accent);
+	border-color: var(--color1-text);
+}
