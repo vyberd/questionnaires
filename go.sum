@@ -4,3 +4,5 @@ github.com/vyberd/input v0.0.0-20230508133017-87685c9124ad h1:MViWjWzCjSMSunCpqS
 github.com/vyberd/input v0.0.0-20230508133017-87685c9124ad/go.mod h1:W5XuaQoudaMhezkfHsaNdzGKkxrpw7SsOJvQYUTW7DU=
 github.com/vyberd/input v0.0.0-20230511063855-883db6f2b441 h1:6fxfMkoevbBkCzSONlUMa6DB+vPqqzaKOyu5K1K7I2c=
 github.com/vyberd/input v0.0.0-20230511063855-883db6f2b441/go.mod h1:W5XuaQoudaMhezkfHsaNdzGKkxrpw7SsOJvQYUTW7DU=
+github.com/vyberd/input v0.0.0-20230513051610-1ad0a1ebb294 h1:4UTrYMIbq/2u6z15GiozlGxAGjd12a7i2UFwGzWUAwE=
+github.com/vyberd/input v0.0.0-20230513051610-1ad0a1ebb294/go.mod h1:W5XuaQoudaMhezkfHsaNdzGKkxrpw7SsOJvQYUTW7DU=
